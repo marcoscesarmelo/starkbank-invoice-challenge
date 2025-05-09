@@ -1,0 +1,5 @@
+starkbank
+starkcore
+python-dotenv
+Flask
+pyngrok
