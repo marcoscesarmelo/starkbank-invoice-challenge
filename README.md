@@ -92,7 +92,7 @@ Copie a URL HTTPS gerada e atualize `WEBHOOK_URL` no `.env`.
 
 ### 3. Registre o webhook manualmente (se necessário)
 
-Acesse a [página de Webhooks da Stark Bank](https://sandbox.starkbank.com/webhook) e insira a URL `https://xxxx.ngrok-free.app/webhook/invoice`.
+Acesse a [página de Webhooks da Stark Bank](https://starkbank.com/br/sandbox) e insira a URL `https://xxxx.ngrok-free.app/webhook/invoice`.
 
 ### 4. Inicie o envio de invoices
 
